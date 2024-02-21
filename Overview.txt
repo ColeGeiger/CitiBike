@@ -1,0 +1,16 @@
+Overview
+This analysis explores the popularity of Citi Bike stations for ride starts and ends, presented on a single dashboard with bar charts and a geo-map.
+
+The bar charts depict the top stations based on ride frequency. Notable patterns include certain stations dominating both ride starts and ends, revealing key hubs of Citi Bike activity.
+
+The geo-map provides a visual representation of ride density across the city. Areas with intense color gradients signify high bike usage, aiding in identifying geographic trends and hotspots.
+
+
+Insights
+The bar charts showcase the most frequented stations, uncovering patterns in ride starts and ends without specific station names.
+
+The geo-map visually represents areas of concentrated bike activity, offering insights into popular biking zones for further analysis and planning.
+
+
+Conclusion
+The combined use of bar charts and a geo-map on a single dashboard provides a comprehensive view of station popularity and spatial patterns in Citi Bike usage. This information is crucial for optimizing bike distribution and enhancing urban planning efforts.

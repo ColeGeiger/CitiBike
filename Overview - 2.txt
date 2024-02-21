@@ -1,0 +1,13 @@
+
+Overview
+This analysis digs into when people use Citi Bikes the most, breaking down the number of trips per day and per hour. The findings are put together on a simple dashboard with easy-to-read charts, highlighting the popular days and times for biking.
+
+The charts show which days and hours see the most bike rides, giving a clear picture of when people are most active without getting into specific dates or times.
+
+Insights
+The daily chart points out the days when Citi Bikes are in high demand, helping us understand trends in bike usage and plan resources accordingly.
+
+The hourly chart uncovers the busiest times for Citi Bike rides, offering a closer look at specific hours of peak bike activity. Knowing these busy hours helps in managing bikes effectively and improving overall service.
+
+Conclusion
+By combining daily and hourly charts on one dashboard, this analysis provides a simple yet comprehensive look at when people prefer using Citi Bikes the most. This insight is crucial for managing resources, ensuring bikes are available when needed, and making biking a better experience for riders.
